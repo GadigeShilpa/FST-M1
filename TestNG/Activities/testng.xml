@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="FST25Suite">
+<groups> <!-- Groups Control -->
+        <run>
+            <include name="HeaderTests" />
+        </run>
+    </groups>
+  <test name="FSTActivityTest">
+    <classes>
+      <class name="activities.TestngActivity1"/>
+      <class name="activities.TestngActivity2"/>
+      <class name="activities.TestngActivity3"/>
+      <class name="activities.TestngActivity5"/>
+      <class name="activities.TestngActivity4_DemoOne"/>
+      <class name="activities.TestngActivity4_DemoTwo"/>
+      <class name="activities.TestngActivity7"/>
+       <class name="activities.TestngActivity9"/>
+      <!----><class name="activities.TestngActivity10"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
