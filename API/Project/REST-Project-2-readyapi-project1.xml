@@ -244,7 +244,7 @@
     <con:oAuth2Profile>
       <con:name>FSTProject</con:name>
       <con:type>OAuth 2.0</con:type>
-      <con:accessToken>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</con:accessToken>
+      <con:accessToken></con:accessToken>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
       <con:accessTokenStatus>ENTERED_MANUALLY</con:accessTokenStatus>
       <con:accessTokenStartingStatus>ENTERED_MANUALLY</con:accessTokenStartingStatus>
