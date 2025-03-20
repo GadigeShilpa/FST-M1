@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="4.729" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Testing with Tags" name="Testing with Simple Alert" time="0.008">
+</testcase>
+<testcase classname="Testing with Tags" name="Testing with Confirm Alert" time="0.002">
+</testcase>
+<testcase classname="Testing with Tags" name="Testing with Prompt Alert" time="0.001">
+</testcase>
+</testsuite>
